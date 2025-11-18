@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently in the **5th cycle** of a technical programming degree  
+- 🔭 I’m currently in the **6th cycle** of a technical programming degree  
 - 🧠 I’m learning **backend development** with C#, Java, and Python  
 - 💡 Passionate about clean code, scalable architecture, and continuous learning  
 - 📍 Based in **Peru**, open to global opportunities  
@@ -45,7 +45,6 @@
 
 ### 📁 Featured Projects
 
-- 🔧 [Inventory System in C#](#)"in progrees"  
 - ⚛️ [React + Spring Boot Web App](https://github.com/Ryz-21/PROYECTO.git)
 - 🧪 [Python Scripts for Automation](https://github.com/Ryz-21/Scripts-Python)  
 

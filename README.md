@@ -1,52 +1,53 @@
 <h1 align="center">Hi 👋, I'm Leo Suasnabar</h1>
-<h3 align="center">Aspiring Backend Developer | Technical Programming Student from Peru 🇵🇪</h3>
+<h3 align="center">Backend Developer (Java) | Systems & Information Development Student from Peru 🇵🇪</h3>
 
 <p align="center">
-  <em>"I'm trying to be a better person and a better programmer."</em>
+  <em>"Always improving — as a developer and as a person."</em>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently in the **6th cycle** of a technical programming degree  
-- 🧠 I’m learning **backend development** with C#, Java, and Python  
-- 💡 Passionate about clean code, scalable architecture, and continuous learning  
-- 📍 Based in **Peru**, open to global opportunities  
+- 🎓 Final-year student in Systems & Information Development  
+- 🔭 Currently building a **Sound Player App (Angular + Java Backend)**  
+- 🧠 Focused on **Backend Development with Java & Spring Boot**  
+- 💡 Interested in clean architecture, REST APIs, and scalable systems  
+- 📍 Based in Peru | Open to on-site and remote opportunities  
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📚 Currently Learning
 
-- 🌐 REST APIs with Spring Boot and ASP.NET Core  
-- ⚛️ Frontend frameworks: **React & Angular**  
-- ☁️ Basics of cloud deployment (Azure, AWS)  
-- 🗃️ Database design & optimization  
+- 🔐 Spring Security & JWT Authentication  
+- 🧪 Unit Testing with JUnit & Mockito  
+- ☁️ Cloud fundamentals (Azure basics)  
+- 🏗️ Software architecture & best practices  
 
 ---
 
 ### 📁 Featured Projects
 
-- ⚛️ [React + Spring Boot Web App](https://github.com/Ryz-21/PROYECTO.git)
-- 🧪 [Python Scripts for Automation](https://github.com/Ryz-21/Scripts-Python)  
+- 🎵 Sound Player App (Angular + Spring Boot Backend)
+- 🛒 Ecommerce Web Application (React + Java API)
+- 📊 CRUD Management Systems (Employees, Patients, Products)
 
 ---
 
@@ -60,11 +61,10 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: **Ryz21.lv04@gmail.com**  
+- 📧 Email: **Ryz21.lv04@gmail.com**
 
 ---
 
 <p align="center">
-  <em>Thanks for stopping by! Let's build something amazing together. 🚀</em>
+  <em>Building scalable backend solutions, one commit at a time. 🚀</em>
 </p>
-

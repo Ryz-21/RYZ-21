@@ -54,9 +54,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryz-21&show_icons=true&theme=tokyonight" alt="Leo's GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryz-21&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryz-21&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📫 Contact Me

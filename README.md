@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  <em>Building scalable backend solutions, one commit at a time. 🚀</em>
+  <em>Building scalable backend solutions, one commit at a time. </em>
 </p>

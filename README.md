@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leo Suasnabar</h1>
+<h1 align="center">Hi, I'm Leo Suasnabar</h1>
 <h3 align="center">Backend Developer (Java) | Systems & Information Development Student from Peru 🇵🇪</h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 Final-year student in Systems & Information Development  
-- 🔭 Currently building a **Sound Player App (Angular + Java Backend)**  
-- 🧠 Focused on **Backend Development with Java & Spring Boot**  
-- 💡 Interested in clean architecture, REST APIs, and scalable systems  
-- 📍 Based in Peru | Open to on-site and remote opportunities  
+-  Final-year student in Systems & Information Development  
+-  Currently building a **Sound Player App (Angular + Java Backend)**  
+-  Focused on **Backend Development with Java & Spring Boot**  
+-  Interested in clean architecture, REST APIs, and scalable systems  
+-  Based in Peru | Open to on-site and remote opportunities  
 
 ---
 
-### 🚀 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -34,32 +34,16 @@
 
 ---
 
-### 📚 Currently Learning
 
-- 🔐 Spring Security & JWT Authentication  
-- 🧪 Unit Testing with JUnit & Mockito  
-- ☁️ Cloud fundamentals (Azure basics)  
-- 🏗️ Software architecture & best practices  
-
----
-
-### 📁 Featured Projects
-
-- 🎵 Sound Player App (Angular + Spring Boot Backend)
-- 🛒 Ecommerce Web Application (React + Java API)
-- 📊 CRUD Management Systems (Employees, Patients, Products)
-
----
-
-### 📈 GitHub Streak
+###  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ryz-21&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📫 Contact Me
+###  Contact Me
 
-- 📧 Email: **Ryz21.lv04@gmail.com**
+-  Email: **Ryz21.lv04@gmail.com**
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leo</h1>
-<h3 align="center">Backend Developer (Java) | Systems & Information Development Student from Peru 🇵🇪</h3>
+<h3 align="center">Full Stack Developer | Systems & Information Development Student from Peru 🇵🇪</h3>
 
 <p align="center">
   <em>"Always improving — as a developer and as a person."</em>
@@ -9,7 +9,6 @@
 
 ### About Me
 
--  Final-year student in Systems & Information Development  
 -  Currently building a **Sound Player App (Angular + Java Backend)**  
 -  Focused on **Backend Development with Java & Spring Boot**  
 -  Interested in clean architecture, REST APIs, and scalable systems  
